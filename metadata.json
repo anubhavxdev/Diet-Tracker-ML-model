@@ -1,0 +1,5 @@
+{
+  "name": "Diet tracker ML model",
+  "description": "A personalized health and wellness planning assistant that generates custom diet, exercise, and habit plans based on your unique profile and goals.",
+  "requestFramePermissions": []
+}
